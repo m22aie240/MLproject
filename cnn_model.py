@@ -6,7 +6,7 @@ from tensorflow.keras.layers import MaxPool2D
 from tensorflow.keras.layers import Flatten
 from tensorflow.keras.layers import Dropout
 from tensorflow.keras.layers import Dense
-
+#Consider this as my modifications M22AIE240
 #loading data
 (X_train,y_train) , (X_test,y_test)=mnist.load_data()
 
